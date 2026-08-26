@@ -1,0 +1,12 @@
+uid: SR-0005
+type: system_requirement
+status: approved
+title: Do not use mixins
+text: >-
+  Do not use mixins, because they introduce implicit dependencies, cause name clashes and
+  cause snowballing complexity; prefer composition, higher-order components or hooks.
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Mixins — No Mixins"

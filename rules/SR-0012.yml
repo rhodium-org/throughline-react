@@ -1,0 +1,11 @@
+uid: SR-0012
+type: system_requirement
+status: approved
+title: Name components by reference, not displayName
+text: >-
+  Do not use displayName to name components; name the component by reference instead.
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Declaration — Naming"

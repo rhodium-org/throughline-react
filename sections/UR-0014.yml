@@ -1,0 +1,11 @@
+uid: UR-0014
+type: user_requirement
+status: approved
+title: Ordering
+text: >-
+  Rules governing the ordering of members within a component.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Ordering"

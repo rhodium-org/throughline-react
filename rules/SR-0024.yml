@@ -1,0 +1,12 @@
+uid: SR-0024
+type: system_requirement
+status: approved
+title: Avoid using array index as a key
+text: >-
+  Avoid using an array index as a key prop; prefer a stable, unique identifier, because an
+  index key can negatively affect performance and component state.
+links:
+- target: UR-0009
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Props — Array Index Key"

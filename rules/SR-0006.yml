@@ -1,0 +1,11 @@
+uid: SR-0006
+type: system_requirement
+status: approved
+title: Use the jsx extension for components
+text: >-
+  Use the .jsx extension for React components.
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Naming — Extensions"

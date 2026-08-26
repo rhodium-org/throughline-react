@@ -1,0 +1,11 @@
+uid: UR-0013
+type: user_requirement
+status: approved
+title: Methods
+text: >-
+  Rules governing event handlers, method binding, naming and render return values.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Methods"

@@ -1,0 +1,12 @@
+uid: SR-0036
+type: system_requirement
+status: approved
+title: Do not use isMounted
+text: >-
+  Do not use isMounted, which is an anti-pattern, is not available on ES6 classes and is
+  deprecated; track mounted state yourself or cancel work on unmount instead.
+links:
+- target: UR-0015
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: isMounted — No isMounted"

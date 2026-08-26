@@ -1,0 +1,12 @@
+uid: SR-0031
+type: system_requirement
+status: approved
+title: Bind event handlers in the constructor
+text: >-
+  Bind event handlers for the render method in the constructor, rather than binding in
+  render, because a bind in render creates a brand new function on every render.
+links:
+- target: UR-0013
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Methods — Handler Binding"

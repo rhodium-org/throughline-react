@@ -1,0 +1,12 @@
+uid: SR-0019
+type: system_requirement
+status: approved
+title: Omit the value of a true prop
+text: >-
+  Omit the value of a prop when it is explicitly true; write hidden rather than
+  hidden={true}.
+links:
+- target: UR-0009
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Props — Explicit True"

@@ -1,0 +1,11 @@
+uid: UR-0006
+type: user_requirement
+status: approved
+title: Alignment
+text: >-
+  Rules governing the alignment of JSX syntax.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Alignment"

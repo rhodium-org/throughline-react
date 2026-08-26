@@ -1,0 +1,12 @@
+uid: SR-0035
+type: system_requirement
+status: approved
+title: Declare propTypes, defaultProps and state as class fields
+text: >-
+  Define propTypes, defaultProps and initial state near the top of the component so a
+  reader sees the component's contract first.
+links:
+- target: UR-0014
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Ordering — Declaration Placement"

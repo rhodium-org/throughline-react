@@ -1,0 +1,12 @@
+uid: SR-0002
+type: system_requirement
+status: approved
+title: Always use JSX syntax
+text: >-
+  Always use JSX syntax; do not use React.createElement unless you are initialising the
+  app from a file that is not JSX.
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Basic Rules — Always Use JSX"

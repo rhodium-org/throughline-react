@@ -1,0 +1,11 @@
+uid: SR-0029
+type: system_requirement
+status: approved
+title: Close a multiline tag on a new line
+text: >-
+  If a component has multiline properties, close its tag on a new line.
+links:
+- target: UR-0012
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Tags — Closing Placement"

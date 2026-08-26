@@ -1,0 +1,13 @@
+uid: SR-0025
+type: system_requirement
+status: approved
+title: Use props spread sparingly
+text: >-
+  Use spread props sparingly, because it makes it easy to pass unnecessary or invalid HTML
+  attributes down to a component; use it only for well-known props such as in a
+  higher-order component, and filter out props you do not need.
+links:
+- target: UR-0009
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Props — Spreading Props"

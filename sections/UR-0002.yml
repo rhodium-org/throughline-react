@@ -1,0 +1,11 @@
+uid: UR-0002
+type: user_requirement
+status: approved
+title: Class vs Function Components
+text: >-
+  Rules governing when to write a class component and when to write a function component.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Class vs Function Components"

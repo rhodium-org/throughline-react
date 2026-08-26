@@ -1,0 +1,13 @@
+uid: SR-0032
+type: system_requirement
+status: approved
+title: Do not underscore-prefix internal methods
+text: >-
+  Do not use an underscore prefix for internal methods of a React component, because
+  underscore prefixes are sometimes used as a convention for private, which JavaScript
+  does not enforce here.
+links:
+- target: UR-0013
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Methods — No Underscore Prefix"

@@ -1,0 +1,12 @@
+uid: SR-0015
+type: system_requirement
+status: approved
+title: Use double quotes for JSX attributes
+text: >-
+  Always use double quotes for JSX attributes, but single quotes for all other JavaScript,
+  because HTML attributes conventionally use double quotes.
+links:
+- target: UR-0007
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Quotes — Attribute Quotes"

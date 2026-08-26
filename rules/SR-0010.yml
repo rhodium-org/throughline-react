@@ -1,0 +1,12 @@
+uid: SR-0010
+type: system_requirement
+status: approved
+title: Base a higher-order component displayName on both names
+text: >-
+  Give a higher-order component a displayName composed of the higher-order component's
+  name and the wrapped component's name, for example withFoo(Bar).
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Naming — Higher-order Component Naming"

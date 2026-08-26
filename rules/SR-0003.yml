@@ -1,0 +1,13 @@
+uid: SR-0003
+type: system_requirement
+status: approved
+title: Prefer function components
+text: >-
+  If a component does not use state, refs or lifecycle behaviour, prefer a normal function
+  component over a class; reserve classes for components that genuinely need class
+  features.
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Class vs Function Components — Prefer Functions"

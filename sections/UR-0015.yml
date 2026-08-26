@@ -1,0 +1,11 @@
+uid: UR-0015
+type: user_requirement
+status: approved
+title: isMounted
+text: >-
+  Rules governing the deprecated isMounted anti-pattern.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: isMounted"

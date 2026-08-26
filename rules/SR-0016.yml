@@ -1,0 +1,11 @@
+uid: SR-0016
+type: system_requirement
+status: approved
+title: Include one space in a self-closing tag
+text: >-
+  Always include a single space before the slash in a self-closing tag.
+links:
+- target: UR-0008
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Spacing — Self-closing Tag"

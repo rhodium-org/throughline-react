@@ -1,0 +1,12 @@
+uid: SR-0023
+type: system_requirement
+status: approved
+title: Do not use accessKey
+text: >-
+  Do not use accessKey on elements, because keyboard shortcuts conflict with the shortcuts
+  used by people relying on keyboards and screen readers.
+links:
+- target: UR-0009
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Props — No accessKey"

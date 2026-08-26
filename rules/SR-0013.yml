@@ -1,0 +1,12 @@
+uid: SR-0013
+type: system_requirement
+status: approved
+title: Follow the JSX alignment style
+text: >-
+  Follow a consistent alignment style for JSX: put each attribute on its own line when a
+  tag spans multiple lines, and place the closing bracket on a line by itself.
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Alignment — Multiline Attributes"

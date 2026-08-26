@@ -1,0 +1,12 @@
+uid: SR-0020
+type: system_requirement
+status: approved
+title: Always include an alt prop on images
+text: >-
+  Always include an alt prop on img tags; if the image is presentational, use an empty alt
+  or mark the image with role presentation.
+links:
+- target: UR-0009
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Props — Image Alt Text"

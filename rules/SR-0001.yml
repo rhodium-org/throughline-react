@@ -1,0 +1,12 @@
+uid: SR-0001
+type: system_requirement
+status: approved
+title: Include only one React component per file
+text: >-
+  Only include one React component per file; however, multiple pure or stateless
+  components are allowed per file.
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Basic Rules — One Component Per File"

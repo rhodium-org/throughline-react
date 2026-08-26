@@ -1,0 +1,12 @@
+uid: SR-0030
+type: system_requirement
+status: approved
+title: Use arrow functions to close over local variables
+text: >-
+  Use arrow functions to close over local variables when a small enclosing function is
+  needed, for example when passing data to a mapped handler.
+links:
+- target: UR-0013
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Methods — Arrow Closures"

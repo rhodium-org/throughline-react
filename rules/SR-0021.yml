@@ -1,0 +1,12 @@
+uid: SR-0021
+type: system_requirement
+status: approved
+title: Do not use image words in alt text
+text: >-
+  Do not use words like image, photo or picture in alt text, because screen readers
+  already announce img elements as images.
+links:
+- target: UR-0009
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Props — Meaningful Alt"

@@ -1,0 +1,11 @@
+uid: SR-0027
+type: system_requirement
+status: approved
+title: Wrap multiline JSX in parentheses
+text: >-
+  Wrap JSX tags in parentheses when they span more than one line.
+links:
+- target: UR-0011
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Parentheses — Multiline JSX"

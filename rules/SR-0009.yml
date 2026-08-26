@@ -1,0 +1,12 @@
+uid: SR-0009
+type: system_requirement
+status: approved
+title: Name a component after its file
+text: >-
+  Use the filename as the component name; for a root component of a directory, use
+  index.jsx as the filename and the directory name as the component name.
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "Airbnb React/JSX Style Guide: Naming — Component Naming"
