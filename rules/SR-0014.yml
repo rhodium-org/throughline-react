@@ -1,11 +1,11 @@
 uid: SR-0014
 type: system_requirement
-status: approved
+status: proposed
 title: Keep single-line JSX on one line
-text: >-
-  If a tag's props fit on one line, keep the whole element on a single line.
+text: If a tag's props fit on one line, keep the whole element on a single line.
+normative: true
 links:
 - target: UR-0006
   type: implements
 attrs:
-  source_ref: "Airbnb React/JSX Style Guide: Alignment — Single Line"
+  source_ref: 'Airbnb React/JSX Style Guide: Alignment — Single Line'

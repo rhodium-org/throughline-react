@@ -1,11 +1,12 @@
 uid: SR-0011
 type: system_requirement
-status: approved
+status: proposed
 title: Do not reuse DOM prop names for other purposes
-text: >-
-  Avoid using DOM component prop names such as style or className for different purposes.
+text: Avoid using DOM component prop names such as style or className for different
+  purposes.
+normative: true
 links:
 - target: UR-0004
   type: implements
 attrs:
-  source_ref: "Airbnb React/JSX Style Guide: Naming — Props Naming"
+  source_ref: 'Airbnb React/JSX Style Guide: Naming — Props Naming'

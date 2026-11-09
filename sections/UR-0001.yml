@@ -1,11 +1,11 @@
 uid: UR-0001
 type: user_requirement
-status: approved
+status: proposed
 title: Basic Rules
-text: >-
-  Rules governing how many components a file holds and whether JSX is used.
+text: Rules governing how many components a file holds and whether JSX is used.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "Airbnb React/JSX Style Guide: Basic Rules"
+  source_ref: 'Airbnb React/JSX Style Guide: Basic Rules'

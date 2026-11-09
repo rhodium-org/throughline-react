@@ -1,11 +1,11 @@
 uid: UR-0012
 type: user_requirement
-status: approved
+status: proposed
 title: Tags
-text: >-
-  Rules governing self-closing tags and closing-tag placement.
+text: Rules governing self-closing tags and closing-tag placement.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "Airbnb React/JSX Style Guide: Tags"
+  source_ref: 'Airbnb React/JSX Style Guide: Tags'

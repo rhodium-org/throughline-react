@@ -1,12 +1,12 @@
 uid: SR-0026
 type: system_requirement
-status: approved
+status: proposed
 title: Use ref callbacks, not string refs
-text: >-
-  Always use ref callbacks or the ref object API instead of string refs, which are
-  deprecated.
+text: Always use ref callbacks or the ref object API instead of string refs, which
+  are deprecated.
+normative: true
 links:
 - target: UR-0010
   type: implements
 attrs:
-  source_ref: "Airbnb React/JSX Style Guide: Refs — Ref Callbacks"
+  source_ref: 'Airbnb React/JSX Style Guide: Refs — Ref Callbacks'

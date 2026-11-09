@@ -1,12 +1,12 @@
 uid: SR-0018
 type: system_requirement
-status: approved
+status: proposed
 title: Use camelCase for prop names
-text: >-
-  Always use camelCase for prop names, or PascalCase if the prop value is a React
+text: Always use camelCase for prop names, or PascalCase if the prop value is a React
   component.
+normative: true
 links:
 - target: UR-0009
   type: implements
 attrs:
-  source_ref: "Airbnb React/JSX Style Guide: Props — Prop Naming"
+  source_ref: 'Airbnb React/JSX Style Guide: Props — Prop Naming'

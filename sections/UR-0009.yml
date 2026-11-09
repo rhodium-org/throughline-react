@@ -1,11 +1,11 @@
 uid: UR-0009
 type: user_requirement
-status: approved
+status: proposed
 title: Props
-text: >-
-  Rules governing prop naming, prop values, accessibility props and prop spreading.
+text: Rules governing prop naming, prop values, accessibility props and prop spreading.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "Airbnb React/JSX Style Guide: Props"
+  source_ref: 'Airbnb React/JSX Style Guide: Props'

@@ -1,11 +1,11 @@
 uid: SR-0033
 type: system_requirement
-status: approved
+status: proposed
 title: Return a value from render methods
-text: >-
-  Be sure to return a value from your render methods.
+text: Be sure to return a value from your render methods.
+normative: true
 links:
 - target: UR-0013
   type: implements
 attrs:
-  source_ref: "Airbnb React/JSX Style Guide: Methods — Render Returns"
+  source_ref: 'Airbnb React/JSX Style Guide: Methods — Render Returns'

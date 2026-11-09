@@ -1,11 +1,11 @@
 uid: UR-0010
 type: user_requirement
-status: approved
+status: proposed
 title: Refs
-text: >-
-  Rules governing how refs are obtained.
+text: Rules governing how refs are obtained.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "Airbnb React/JSX Style Guide: Refs"
+  source_ref: 'Airbnb React/JSX Style Guide: Refs'

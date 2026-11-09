@@ -1,11 +1,11 @@
 uid: UR-0003
 type: user_requirement
-status: approved
+status: proposed
 title: Mixins
-text: >-
-  Rules governing the use of mixins.
+text: Rules governing the use of mixins.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "Airbnb React/JSX Style Guide: Mixins"
+  source_ref: 'Airbnb React/JSX Style Guide: Mixins'

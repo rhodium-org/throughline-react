@@ -1,11 +1,11 @@
 uid: UR-0008
 type: user_requirement
-status: approved
+status: proposed
 title: Spacing
-text: >-
-  Rules governing whitespace in tags and in curly braces.
+text: Rules governing whitespace in tags and in curly braces.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "Airbnb React/JSX Style Guide: Spacing"
+  source_ref: 'Airbnb React/JSX Style Guide: Spacing'

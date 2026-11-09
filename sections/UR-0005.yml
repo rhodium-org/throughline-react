@@ -1,11 +1,11 @@
 uid: UR-0005
 type: user_requirement
-status: approved
+status: proposed
 title: Declaration
-text: >-
-  Rules governing how a component is declared and named.
+text: Rules governing how a component is declared and named.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "Airbnb React/JSX Style Guide: Declaration"
+  source_ref: 'Airbnb React/JSX Style Guide: Declaration'

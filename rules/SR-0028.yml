@@ -1,11 +1,11 @@
 uid: SR-0028
 type: system_requirement
-status: approved
+status: proposed
 title: Self-close tags with no children
-text: >-
-  Always self-close tags that have no children.
+text: Always self-close tags that have no children.
+normative: true
 links:
 - target: UR-0012
   type: implements
 attrs:
-  source_ref: "Airbnb React/JSX Style Guide: Tags — Self Close"
+  source_ref: 'Airbnb React/JSX Style Guide: Tags — Self Close'

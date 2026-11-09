@@ -1,11 +1,11 @@
 uid: SR-0022
 type: system_requirement
-status: approved
+status: proposed
 title: Use only valid ARIA roles
-text: >-
-  Use only valid, non-abstract ARIA role values on elements.
+text: Use only valid, non-abstract ARIA role values on elements.
+normative: true
 links:
 - target: UR-0009
   type: implements
 attrs:
-  source_ref: "Airbnb React/JSX Style Guide: Props — Valid ARIA Roles"
+  source_ref: 'Airbnb React/JSX Style Guide: Props — Valid ARIA Roles'

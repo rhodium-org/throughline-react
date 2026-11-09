@@ -1,12 +1,12 @@
 uid: SR-0004
 type: system_requirement
-status: approved
+status: proposed
 title: Do not use createReactClass
-text: >-
-  Do not use createReactClass; use a class that extends React.Component or a function
-  component instead.
+text: Do not use createReactClass; use a class that extends React.Component or a
+  function component instead.
+normative: true
 links:
 - target: UR-0002
   type: implements
 attrs:
-  source_ref: "Airbnb React/JSX Style Guide: Class vs Function Components — No createReactClass"
+  source_ref: 'Airbnb React/JSX Style Guide: Class vs Function Components — No createReactClass'
